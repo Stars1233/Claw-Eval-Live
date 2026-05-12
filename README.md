@@ -27,6 +27,7 @@
 </p>
 
 <p align="center">
+  <a href="https://claw-eval-live.github.io/"><img alt="Homepage" src="https://img.shields.io/badge/Homepage-Visit-blue"></a>
   <a href="https://arxiv.org/abs/2604.28139"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2604.28139-b31b1b"></a>
   <a href="https://arxiv.org/pdf/2604.28139"><img alt="Paper PDF" src="https://img.shields.io/badge/PDF-paper-red"></a>
   <a href="https://claw-eval-live.github.io/#/leaderboard"><img alt="Tasks" src="https://img.shields.io/badge/tasks-105-blue"></a>
